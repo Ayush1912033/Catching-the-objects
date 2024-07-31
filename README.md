@@ -14,3 +14,4 @@ This is a simple game built with HTML, CSS, and JavaScript. In this game, the pl
    ```bash
    git clone https://github.com/your-username/catch-the-falling-objects-game.git
    cd catch-the-falling-objects-game
+   ayush
